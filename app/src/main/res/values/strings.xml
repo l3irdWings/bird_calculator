@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BirdCalculate</string>
+    <string name="type_operand_one_hint">First operand</string>
+    <string name="type_operant_two_hint">Second operand</string>
+    <string name="add_operation_text">ADD</string>
+    <string name="sub_operation_text">SUB</string>
+    <string name="div_operation_text">DIV</string>
+    <string name="mul_operation_text">MUL</string>
+</resources>
