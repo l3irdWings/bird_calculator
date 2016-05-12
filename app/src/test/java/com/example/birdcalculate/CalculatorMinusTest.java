@@ -35,6 +35,7 @@ public class CalculatorMinusTest {
                 {1, 1, 0.0},
                 {2, 1, 1.0},
                 {2, 3, -1.0},
+                {10, 3, 7.0},
         });
     }
 
